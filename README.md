@@ -7,8 +7,7 @@ File: SLUS-20732_9679D44C.pnach
 Copy the .pnach file into PCSX2\cheats\ or PCSX2\patches\.
 
 
-This is a gameplay, camera, UI, and rendering overhaul for Drakengard(PS2), packaged into a simple PCSX2 .pnach cheat file.
-
+PCSXS2 cheat that overhauls menus, UI, combat, camera, movement, and controls.
 
 # Features
 
